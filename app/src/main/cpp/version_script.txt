@@ -1,0 +1,4 @@
+{
+    global:Java_com_reverccqin_logintest_ui_login_LoginActivity_httpCurl;
+    local:*;
+};
